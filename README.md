@@ -10,5 +10,3 @@ Customer Churn (ou Rotatividade de Clientes, em uma tradução livre) refere- se
 
 <i>Para visualizar a análise completa feita neste projeto, acesse este link:</i><br>
 https://
-
-(https://www.kapacity.dk/wp-content/uploads/2018/03/customer-churn-til-customer-retention.jpg)
