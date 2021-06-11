@@ -7,6 +7,6 @@ Customer Churn (ou Rotatividade de Clientes, em uma tradução livre) refere- se
 <b>Objetivo:</b> Utilizando <b>linguagem Python</b>, prever os usuários que provavelmente abandonarão o relacionamento comercial e os fatores que afetam as decisões do cliente.
 <br><br>
 
-Para visualizar a análise completa feita neste projeto, acesse este link:<br>
-https://htmlpreview.github.io/?https://github.com/paulopiai/Projeto1-Deteccao-Fraudes-Cliques-Propaganda-AppMobile/blob/main/Projeto_1.html
+<i>Para visualizar a análise completa feita neste projeto, acesse este link:</i><br>
+https://
 
