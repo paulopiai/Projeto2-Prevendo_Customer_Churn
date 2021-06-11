@@ -9,4 +9,4 @@ Customer Churn (ou Rotatividade de Clientes, em uma tradução livre) refere- se
 <br><br>
 
 <i>Para visualizar a análise completa feita neste projeto, acesse este link:</i><br>
-https://
+https://mybinder.org/v2/gh/paulopiai/Projeto2-Prevendo_Customer_Churn_Operadora_Telecom/5ec10b4724db87d24d10f5688c1da66c9c52c226?filepath=Projeto2-Prevendo_Customer_Churn.ipynb
